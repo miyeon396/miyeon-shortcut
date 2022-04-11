@@ -10,3 +10,4 @@
 - Cmd + ; : 프로젝트 구조
 - Cmd + shift + t : test class 생성
 - Cmd + e : 과거 history 다나옴
+- Cmd + Shift + enter : 바로 다음 줄 시작으로 이동

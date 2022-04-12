@@ -1,7 +1,8 @@
 # IntelliJ 단축키
 
-- Cmd + Alt + v : 변수 추출
-- Cmd + Alt + m : 메서드 추출
+- Cmd + Option + v : 변수 추출
+- Cmd + Option + m : 메서드 추출
+- Cmd + Option + b : 구현체 바로가기
 - Shift + F6 : 변수 한번에 변경
 - sout : System.out.println()
 - psvm : public static void main(String[] args) {}
